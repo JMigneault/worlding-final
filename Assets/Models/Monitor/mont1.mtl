@@ -1,0 +1,9 @@
+newmtl leaf_adult
+map_Kd efeu1.png
+
+newmtl leaf_young
+map_Kd efeu0.png
+
+newmtl branch
+map_Kd efeu_branch.png
+
